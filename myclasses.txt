@@ -1,0 +1,12 @@
+Calculator
+ExamGrades
+NestedLoops
+WhatKindOfNumber
+WhichPath
+sorting.BubbleSort
+sorting.InsertionSort
+sorting.MergeSort
+sorting.QuickSort
+sorting.SelectionSort
+searching.BinarySearch
+searching.LinearSearch
