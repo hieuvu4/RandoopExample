@@ -1,3 +1,8 @@
+# Description
+
+This project demonstrates the use of the Randoop unit test generation tool. Randoop can be integrated into a project by downloading the JAR file and incorporating it into the Java project.
+Using the CommandLine, Randoop generates a test class that encompasses all testable classes within the project.
+
 # Instruction
 
 ### Prerequisite
